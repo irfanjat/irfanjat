@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Jatirfan110@gmail.com**
 
-- ⚡ Fun fact **I am funny 😀**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&locale=en" alt="irfanjat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanjat&" alt="irfanjat" /></p>
+
