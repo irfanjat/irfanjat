@@ -1,4 +1,4 @@
-<h1 align="center">Irfan Ali</h1>
+<h1 align="center">Hi I'm Irfan Ali</h1>
 <p align="center">
   <strong>Junior DevOps Engineer</strong><br>
   Building Resilient Systems • Automating Workflows • Cloud Optimization
@@ -36,17 +36,7 @@ Results-driven DevOps Engineer with a focus on streamlining the software develop
 
 ---
 
-### 📊 Engineering Metrics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanjat&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanjat&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 <p align="left">
@@ -56,3 +46,4 @@ Results-driven DevOps Engineer with a focus on streamlining the software develop
 </p>
 
 <p align="center"><i>"If it's worth doing twice, it's worth automating."</i></p>
+
