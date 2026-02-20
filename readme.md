@@ -24,7 +24,7 @@
 👤 Name       : Irfan Ali
 📍 Location   : Pakistan 🇵🇰
 💼 Role       : DevOps Engineer
-📧 Contact    : irfanaliijat@gmail.com
+📧 Contact    : jatirfan110@gmail.com
 
 🔧 Expertise:
   - Cloud Infrastructure Design (AWS)
@@ -190,3 +190,4 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
+
