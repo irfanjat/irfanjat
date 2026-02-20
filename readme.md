@@ -34,9 +34,9 @@
 
 📚 Currently Learning:
   - GitOps & ArgoCD
-  - Service Mesh (Istio)
+  - Prometheus & Grafana 
 
-🤝 Open To    : Freelance & Full-time Opportunities
+🤝 Open To    : Full-time Opportunities Remote, Hybrid, onsite
 ```
 
 <br/>
@@ -190,4 +190,5 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
+
 
