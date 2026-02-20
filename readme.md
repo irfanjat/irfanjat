@@ -1,164 +1,200 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Irfan%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Infrastructure+%F0%9F%9A%80;Automating+Everything+with+CI%2FCD+%E2%9A%99%EF%B8%8F;Cloud+Native+%7C+Kubernetes+%7C+Docker;From+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+to+the+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d9ff&height=200&section=header&text=Irfan%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Enthusiast&descAlignY=58&descSize=17&descColor=a0c4ff" width="100%"/>
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=irfanjat&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/irfanjat?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=580&lines=🚀+Building+Scalable+Cloud+Infrastructure;⚙️+Automating+Pipelines+with+CI%2FCD;🐳+Container+Orchestration+%7C+Kubernetes;☁️+AWS+%7C+Terraform+%7C+GitOps;🇵🇰+Passionate+DevOps+Engineer+from+Pakistan)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=irfanjat&label=Profile+Views&color=0e75b6&style=for-the-badge&logo=eye" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/irfanjat?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
-name: Irfan Ali
-location: Pakistan 🇵🇰
-role: DevOps Engineer
-focus:
-  - Cloud Infrastructure (AWS)
-  - Container Orchestration (Kubernetes)
+👤 Name       : Irfan Ali
+📍 Location   : Pakistan 🇵🇰
+💼 Role       : DevOps Engineer
+📧 Contact    : irfanaliijat@gmail.com
+
+🔧 Expertise:
+  - Cloud Infrastructure Design (AWS)
+  - Container Orchestration (Kubernetes & Docker)
   - CI/CD Pipeline Automation
-  - Infrastructure as Code
-currently_learning:
+  - Infrastructure as Code (Terraform & Ansible)
+
+📚 Currently Learning:
   - GitOps & ArgoCD
   - Service Mesh (Istio)
-  - Platform Engineering
-available_for: Freelance & Full-time Opportunities
-contact: irfanaliijat@gmail.com
+
+🤝 Open To    : Freelance & Full-time Opportunities
 ```
 
----
-
-## 🚀 Tech Stack & Tools
-
-### ☁️ Cloud Platforms
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</p>
-
-### 🐳 Containers & Orchestration
-<p>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white"/>
-</p>
-
-### ⚙️ CI/CD & Automation
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CircleCI-%23343434.svg?style=for-the-badge&logo=circleci&logoColor=white"/>
-</p>
-
-### 🏗️ Infrastructure as Code
-<p>
-  <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pulumi-%238A3391.svg?style=for-the-badge&logo=pulumi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
-
-### 📊 Monitoring & Observability
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK%20Stack-%23005571.svg?style=for-the-badge&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zabbix-%23CC0000.svg?style=for-the-badge&logo=zabbix&logoColor=white"/>
-</p>
-
-### 🔐 Security & Networking
-<p>
-  <img src="https://img.shields.io/badge/Vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trivy-%231904DA.svg?style=for-the-badge&logo=aquasecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-</p>
-
-### 💻 Languages & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Storage
-<p>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🛠️ OS & Version Control
-<p>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CentOS-%23262577.svg?style=for-the-badge&logo=centos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanjat&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanjat&theme=tokyonight&hide_border=true" width="700"/>
-</div>
+### ☁️ &nbsp; Cloud Platforms
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanjat&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+<br/>
+
+### 🐳 &nbsp; Containers & Orchestration
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;
+ 
+</p>
+
+<br/>
+
+### ⚙️ &nbsp; CI/CD & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" />
+</p>
+
+<br/>
+
+### 🏗️ &nbsp; Infrastructure as Code
+
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />&nbsp;
+</p>
+
+<br/>
+
+### 📊 &nbsp; Monitoring & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />&nbsp;
+
+</p>
+
+<br/>
+
+### 🔐 &nbsp; Security & DevSecOps
+
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+<br/>
+
+### 💻 &nbsp; Languages & Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>
+
+<br/>
+
+### 🗄️ &nbsp; Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+
+</p>
+
+<br/>
+
+### 🖥️ &nbsp; Operating Systems & Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<br/>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Stats
+
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irfanjat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=0e75b6&text_color=ffffff" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanjat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanjat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=0e75b6&currStreakLabel=00d9ff" width="680"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanjat&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=0e75b6&point=ffffff" width="100%"/>
+
 </div>
+
+<br/>
 
 ---
 
-## 🤝 Connect with Me
+## 🏆 Achievements
+
+<br/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfanjat)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jirfan17)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanaliijat@gmail.com)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=irfanjat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
 </div>
+
+<br/>
 
 ---
 
+## 🤝 Let's Connect
+
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfanjat)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jirfan17)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanaliijat@gmail.com)
+
+<br/><br/>
+
+> *"Automate the boring stuff, architect the future."*
+
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
