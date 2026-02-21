@@ -97,15 +97,8 @@
 
 <br/>
 
-### 🔐 Security & DevSecOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nginx,sonarqube&theme=dark" />
-  &nbsp;
-  <!-- <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" height="48" style="border-radius:12px"/> -->
-</p>
 
-<br/>
 
 ### 💻 Languages & Scripting
 
@@ -190,6 +183,7 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
+
 
 
 
