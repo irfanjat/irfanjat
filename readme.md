@@ -47,79 +47,8 @@
 
 <br/>
 
-### ☁️ Cloud Platforms
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
-</p>
-
-<br/>
-
-### 🐳 Containers & Orchestration
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
-  &nbsp;
-  <!-- <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="48" style="border-radius:12px"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" height="48" style="border-radius:12px"/> -->
-</p>
-
-<br/>
-
-### ⚙️ CI/CD & Automation
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab&theme=dark" />
-  <!-- &nbsp;
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="48" style="border-radius:12px"/> -->
-</p>
-
-<br/>
-
-### 🏗️ Infrastructure as Code
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
-  &nbsp;
-  <!-- <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" height="48" style="border-radius:12px"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="48" style="border-radius:12px"/> -->
-</p>
-
-<br/>
-
-### 📊 Monitoring & Observability
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-</p>
-
-<br/>
-
-
-
-
-### 💻 Languages & Scripting
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,java&theme=dark" />
-</p>
-
-<br/>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
-
-<br/>
-
-### 🖥️ OS & Version Control
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions,gitlab,terraform,ansible,prometheus,grafana,python,bash,java,mysql,linux,ubuntu,git,github&theme=dark" />
 </p>
 
 <br/>
@@ -183,7 +112,3 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
-
-
-
-
