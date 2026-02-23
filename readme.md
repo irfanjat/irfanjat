@@ -48,7 +48,7 @@
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions,gitlab,terraform,ansible,prometheus,grafana,python,bash,java,mysql,linux,ubuntu,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana,python,bash,mysql,linux,git&theme=dark" />
 </p>
 
 <br/>
@@ -112,3 +112,4 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
+
