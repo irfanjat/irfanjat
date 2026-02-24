@@ -1,6 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d9ff&height=200&section=header&text=Irfan%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%&descAlignY=58&descSize=17&descColor=a0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d9ff&height=220&section=header&text=Irfan%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer&descAlignY=58&descSize=20&descColor=00d9ff" width="100%"/>
+
+<!-- DevOps Flow -->
+![Plan](https://img.shields.io/badge/📋_Plan-0d1117?style=for-the-badge&logoColor=white)
+![Code](https://img.shields.io/badge/→_💻_Code-0d1117?style=for-the-badge&logoColor=white)
+![Build](https://img.shields.io/badge/→_🏗️_Build-0d1117?style=for-the-badge&logoColor=white)
+![Test](https://img.shields.io/badge/→_🧪_Test-0d1117?style=for-the-badge&logoColor=white)
+![Release](https://img.shields.io/badge/→_📦_Release-0d1117?style=for-the-badge&logoColor=white)
+![Deploy](https://img.shields.io/badge/→_🚀_Deploy-0d1117?style=for-the-badge&logoColor=white)
+![Operate](https://img.shields.io/badge/→_⚙️_Operate-0d1117?style=for-the-badge&logoColor=white)
+![Monitor](https://img.shields.io/badge/→_📊_Monitor-0d1117?style=for-the-badge&logoColor=white)
+
+<br/>
+
+<!-- Tech Stack Badges -->
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 <br/>
 
@@ -25,17 +45,14 @@
 📍 Location   : Pakistan 🇵🇰
 💼 Role       : DevOps Engineer
 📧 Contact    : jatirfan110@gmail.com
-
 🔧 Expertise:
   - Cloud Infrastructure Design (AWS)
   - Container Orchestration (Kubernetes & Docker)
   - CI/CD Pipeline Automation
   - Infrastructure as Code (Terraform & Ansible)
-
 📚 Currently Learning:
   - GitOps & ArgoCD
   - Prometheus & Grafana 
-
 🤝 Open To    : Full-time Opportunities Remote, Hybrid, onsite
 ```
 
@@ -60,19 +77,13 @@
 <br/>
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=0e75b6&text_color=ffffff" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanjat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" height="180"/>
-
 <br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanjat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=0e75b6&currStreakLabel=00d9ff" width="680"/>
-
 <br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanjat&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=0e75b6&point=ffffff" width="100%"/>
-
 </div>
 
 <br/>
@@ -112,4 +123,3 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
-
