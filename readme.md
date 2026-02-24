@@ -12,17 +12,9 @@
 ![Operate](https://img.shields.io/badge/→_⚙️_Operate-0d1117?style=for-the-badge&logoColor=white)
 ![Monitor](https://img.shields.io/badge/→_📊_Monitor-0d1117?style=for-the-badge&logoColor=white)
 
-<br/>
 
 <!-- Tech Stack Badges -->
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=580&lines=🚀+Building+Scalable+Cloud+Infrastructure;⚙️+Automating+Pipelines+with+CI%2FCD;🐳+Container+Orchestration+%7C+Kubernetes;☁️+AWS+%7C+Terraform+%7C+GitOps;🇵🇰+Passionate+DevOps+Engineer+from+Pakistan)](https://git.io/typing-svg)
 
@@ -123,3 +115,4 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
+
