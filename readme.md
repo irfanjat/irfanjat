@@ -7,7 +7,6 @@
 ![Code](https://img.shields.io/badge/→_💻_Code-0d1117?style=for-the-badge&logoColor=white)
 ![Build](https://img.shields.io/badge/→_🏗️_Build-0d1117?style=for-the-badge&logoColor=white)
 ![Test](https://img.shields.io/badge/→_🧪_Test-0d1117?style=for-the-badge&logoColor=white)
-![Release](https://img.shields.io/badge/→_📦_Release-0d1117?style=for-the-badge&logoColor=white)
 ![Deploy](https://img.shields.io/badge/→_🚀_Deploy-0d1117?style=for-the-badge&logoColor=white)
 ![Operate](https://img.shields.io/badge/→_⚙️_Operate-0d1117?style=for-the-badge&logoColor=white)
 ![Monitor](https://img.shields.io/badge/→_📊_Monitor-0d1117?style=for-the-badge&logoColor=white)
@@ -115,4 +114,5 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
+
 
