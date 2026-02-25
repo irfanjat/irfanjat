@@ -74,7 +74,7 @@
 <br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanjat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=0e75b6&currStreakLabel=00d9ff" width="680"/>
 <br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanjat&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=0e75b6&point=ffffff" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanjat&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=0e75b6&point=ffffff" width="100%"/> -->
 </div>
 
 <br/>
@@ -114,5 +114,6 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
+
 
 
