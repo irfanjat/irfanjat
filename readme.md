@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d9ff&height=220&section=header&text=Irfan%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer&descAlignY=58&descSize=20&descColor=00d9ff" width="100%"/>
+<img src="banner_irfan_ali.jpeg" width="100%" alt="Irfan Ali - DevOps Engineer"/>
 
 <!-- DevOps Flow -->
 ![Plan](https://img.shields.io/badge/📋_Plan-0d1117?style=for-the-badge&logoColor=white)
@@ -74,8 +74,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanjat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" height="180"/>
 <br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanjat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=0e75b6&currStreakLabel=00d9ff" width="680"/>
-<br/><br/>
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanjat&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=0e75b6&point=ffffff" width="100%"/> -->
 </div>
 
 <br/>
@@ -115,7 +113,3 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0e75b6,100:0d1117&height=120&section=footer" width="100%"/>
-
-
-
-
