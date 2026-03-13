@@ -67,19 +67,7 @@
 
 <br/>
 
----
 
-## 🏆 Achievements
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irfanjat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
-</div>
-
-<br/>
-
----
 
 ## 🤝 Let's Connect
 
