@@ -45,10 +45,9 @@
 
 <br/>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana,python,bash,mysql,linux,git&theme=dark" />
 </p>
-
 <br/>
 
 ---
