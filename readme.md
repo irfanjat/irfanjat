@@ -1,21 +1,10 @@
 <div align="center">
 
-<img src="banner_irfan_ali.jpeg" width="100%" alt="Irfan Ali - DevOps Engineer"/>
+<img src="https://raw.githubusercontent.com/irfanjat/irfanjat/main/banner.jpeg" width="100%" alt="Irfan Ali - DevOps Engineer"/>
 
-<!-- DevOps Flow -->
-![Plan](https://img.shields.io/badge/📋_Plan-0d1117?style=for-the-badge&logoColor=white)
-![Code](https://img.shields.io/badge/→_💻_Code-0d1117?style=for-the-badge&logoColor=white)
-![Build](https://img.shields.io/badge/→_🏗️_Build-0d1117?style=for-the-badge&logoColor=white)
-![Test](https://img.shields.io/badge/→_🧪_Test-0d1117?style=for-the-badge&logoColor=white)
-![Deploy](https://img.shields.io/badge/→_🚀_Deploy-0d1117?style=for-the-badge&logoColor=white)
-![Operate](https://img.shields.io/badge/→_⚙️_Operate-0d1117?style=for-the-badge&logoColor=white)
-![Monitor](https://img.shields.io/badge/→_📊_Monitor-0d1117?style=for-the-badge&logoColor=white)
 
 
 <!-- Tech Stack Badges -->
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=580&lines=🚀+Building+Scalable+Cloud+Infrastructure;⚙️+Automating+Pipelines+with+CI%2FCD;🐳+Container+Orchestration+%7C+Kubernetes;☁️+AWS+%7C+Terraform+%7C+GitOps;🇵🇰+Passionate+DevOps+Engineer+from+Pakistan)](https://git.io/typing-svg)
 
 <br/>
 
