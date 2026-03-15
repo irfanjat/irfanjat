@@ -76,7 +76,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/irfanjat)
 &nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/jirfan17)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/irrfanjat)
 &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:irfanaliijat@gmail.com)
 
