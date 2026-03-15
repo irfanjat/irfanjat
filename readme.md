@@ -82,7 +82,7 @@
 
 <br/><br/>
 
-> *"Automate the boring stuff, architect the future."*
+> *"Automate the boring stuff, architect the future. "*
 
 </div>
 
