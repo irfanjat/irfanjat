@@ -31,8 +31,8 @@
   - CI/CD Pipeline Automation
   - Infrastructure as Code (Terraform & Ansible)
 📚 Currently Learning:
-  - Prometheus & Grafana
-  - Security best practices
+  - GitOps, ArgoCD
+  - DevSecOps best practices
 
 🤝 Open To    : Full-time Opportunities Remote, Hybrid, onsite
 ```
