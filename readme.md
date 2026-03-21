@@ -32,7 +32,7 @@
   - Infrastructure as Code (Terraform & Ansible)
 📚 Currently Learning:
   - GitOps, ArgoCD
-  - DevSecOps best practices
+  - AI Assisted DevOps 
 
 🤝 Open To    : Full-time Opportunities Remote, Hybrid, onsite
 ```
