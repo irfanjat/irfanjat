@@ -31,7 +31,7 @@
   - CI/CD Pipeline Automation
   - Infrastructure as Code (Terraform & Ansible)
 📚 Currently Learning:
-  - GitOps, ArgoCD
+  - DevSecOps, Cloud monitoring
   - AI Assisted DevOps 
 
 🤝 Open To    : Full-time Opportunities Remote, Hybrid, onsite
