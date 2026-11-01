@@ -2,13 +2,12 @@
 
 <img src="assets/github-banner.jpeg" alt="Irfan Ali — DevOps & Cloud Engineer" width="100%"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanjat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanjat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://irfanjat.online)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanali.cloud@gmail.com)
+
+<a href="https://github.com/irfanjat"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/irfanjat"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:irfanali.cloud@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/></a>
 
 </div>
-
 ---
 
 ## 🚀 About Me
