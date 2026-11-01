@@ -61,10 +61,10 @@ Hi, I'm **Irfan** — a self-directed **DevOps and Cloud Engineer** and final-ye
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### ⚡ Build. Automate. Deploy. Observe. Repeat.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
 
-</div>
+</div> -->
