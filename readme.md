@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/github-banner.jpeg" alt="Irfan Ali — DevOps & Cloud Engineer" width="100%"/>
+<img src="assets/github-banner.png" alt="Irfan Ali — DevOps & Cloud Engineer" width="100%"/>
 
 
 <a href="https://github.com/irfanjat"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/></a>&nbsp;&nbsp;
@@ -8,7 +8,6 @@
 <a href="mailto:irfanali.cloud@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/></a>
 
 </div>
----
 
 ## 🚀 About Me
 
