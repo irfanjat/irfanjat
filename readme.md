@@ -56,7 +56,7 @@ Hi, I'm **Irfan** — a self-directed **DevOps and Cloud Engineer** and final-ye
 ## 🌱 Currently
 
 - 🤖 Using AI tools to speed up troubleshooting, automation, and infrastructure decisions
-- 🌐 Going deeper on cloud networking: VPCs, CIDR/subnetting, ALB/NLB, DNS
+- 🌐 Going deeper on kubernetes end : Exploring multicloud technologies
 - 💰 Building AWS cost optimization (FinOps) projects
 
 ---
