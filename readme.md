@@ -35,16 +35,6 @@ I enjoy understanding how systems work behind the scenes, solving infrastructure
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="assets/github-stats.svg" alt="Contribution activity" width="100%"/>
-
-</div>
-
----
-
 ## 🧭 My Approach
 
 1. 🔁 Automate repetitive tasks and reduce manual overhead.
