@@ -39,8 +39,7 @@ I enjoy understanding how systems work behind the scenes, solving infrastructure
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=cbd5e1&icon_color=2563eb&ring_color=2563eb" height="180"/>
-<img src="https://streak-stats.demolab.com/?user=irfanjat&hide_border=true&background=0f172a&ring=2563eb&fire=38bdf8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=64748b&stroke=1e293b" height="180"/>
+<img src="assets/github-stats.svg" alt="Contribution activity" width="100%"/>
 
 </div>
 
