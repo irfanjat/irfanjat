@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="716" height="222" viewBox="0 0 716 222" font-family="Segoe UI, Ubuntu, sans-serif">
 <rect width="716" height="222" rx="8" fill="#0f172a"/>
 <text x="20" y="30" fill="#60a5fa" font-size="16" font-weight="700">Contribution Activity</text>
-<text x="696" y="30" fill="#94a3b8" font-size="12" text-anchor="end">Nov 20, 2025 - Nov 19, 2026</text>
-<text x="20" y="68" fill="#e2e8f0" font-size="26" font-weight="700">1,285</text>
+<text x="696" y="30" fill="#94a3b8" font-size="12" text-anchor="end">Nov 19, 2025 - Nov 18, 2026</text>
+<text x="20" y="68" fill="#e2e8f0" font-size="26" font-weight="700">1,282</text>
 <text x="20" y="88" fill="#94a3b8" font-size="12">Total contributions</text>
 <text x="250" y="68" fill="#e2e8f0" font-size="26" font-weight="700">365</text>
 <text x="250" y="88" fill="#94a3b8" font-size="12">Current streak</text>
 <text x="480" y="68" fill="#e2e8f0" font-size="26" font-weight="700">365</text>
 <text x="480" y="88" fill="#94a3b8" font-size="12">Longest streak</text>
+<rect x="20" y="140" width="11" height="11" rx="2" fill="#006d32"><title>2025-11-19: 3 contributions</title></rect>
 <rect x="20" y="154" width="11" height="11" rx="2" fill="#006d32"><title>2025-11-20: 3 contributions</title></rect>
 <rect x="20" y="168" width="11" height="11" rx="2" fill="#006d32"><title>2025-11-21: 3 contributions</title></rect>
 <rect x="20" y="182" width="11" height="11" rx="2" fill="#006d32"><title>2025-11-22: 3 contributions</title></rect>
@@ -372,5 +373,4 @@
 <rect x="748" y="112" width="11" height="11" rx="2" fill="#006d32"><title>2026-11-16: 3 contributions</title></rect>
 <rect x="748" y="126" width="11" height="11" rx="2" fill="#006d32"><title>2026-11-17: 3 contributions</title></rect>
 <rect x="748" y="140" width="11" height="11" rx="2" fill="#26a641"><title>2026-11-18: 8 contributions</title></rect>
-<rect x="748" y="154" width="11" height="11" rx="2" fill="#26a641"><title>2026-11-19: 6 contributions</title></rect>
 </svg>
