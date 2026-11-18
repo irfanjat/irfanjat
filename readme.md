@@ -45,13 +45,7 @@ Hi, I'm **Irfan** — a self-directed **DevOps and Cloud Engineer** and final-ye
 
 ---
 
-## 🐟 GitHub Koi
 
-<div align="center">
-
-<img src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity"/>
-
-</div>
 
 ---
 
