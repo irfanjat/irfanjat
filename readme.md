@@ -1,7 +1,6 @@
-<div align="center">
+ <div align="center">
 
 <img src="assets/github-banner.png" alt="Irfan Ali — DevOps & Cloud Engineer" width="100%"/>
-
 
 <a href="https://github.com/irfanjat"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/irfanjat"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/></a>&nbsp;&nbsp;
@@ -11,14 +10,16 @@
 
 ## 🚀 About Me
 
+Hi, I'm **Irfan Ali** — a self-directed **DevOps and Cloud Engineer** and final-year Computer Science student, focused on building, automating, and monitoring cloud infrastructure through hands-on projects.
 
-Hi, I'm **Irfan** — a self-directed **DevOps and Cloud Engineer** and final-year CS student, building hands-on, production-style infrastructure projects. Open to junior DevOps, Cloud, and Platform Engineering roles.
+I enjoy understanding how systems work behind the scenes, solving infrastructure challenges, and turning manual processes into reliable automated workflows. Currently open to DevOps, Cloud, and Platform Engineering opportunities.
 
-- ☁️ **Cloud:** AWS: EC2, VPC, S3, IAM, EKS
-- 🛠 **IaC & CI/CD:** Terraform, Ansible, GitHub Actions, ArgoCD
-- 📦 **Containers:** Docker, Kubernetes, Helm
-- 📊 **Observability:** Prometheus, Grafana, Loki
-- 🔐 **DevSecOps:** Trivy, Snyk, OPA/Gatekeeper
+- ☁️ **Cloud:** AWS – EC2, VPC, S3, IAM, EKS
+- 🛠 **IaC & CI/CD:** Terraform, Ansible, GitHub Actions, Jenkins
+- 📦 **Containers & Orchestration:** Docker, Kubernetes, Helm
+- 🔄 **GitOps:** ArgoCD
+- 📊 **Observability:** Prometheus, Grafana, Loki, Promtail
+- 🐧 **Systems & Scripting:** Linux, Bash, Python
 
 > "Automate the boring parts, monitor everything else."
 
@@ -28,7 +29,7 @@ Hi, I'm **Irfan** — a self-directed **DevOps and Cloud Engineer** and final-ye
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,jenkins,git,linux,bash,python" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,jenkins,git,linux,bash,python,prometheus,grafana"/>
 
 </div>
 
@@ -45,23 +46,23 @@ Hi, I'm **Irfan** — a self-directed **DevOps and Cloud Engineer** and final-ye
 
 ---
 
-
-
----
-
 ## 🧭 My Approach
 
-1. 🔁 Automate what repeats
-2. 🧩 Break systems down before scaling them
-3. 📈 Measure before optimizing
-4. 💬 Document and share what I learn
+1. 🔁 Automate repetitive tasks and reduce manual overhead.
+2. 🧩 Understand system architecture before making changes.
+3. 📈 Monitor performance before optimizing infrastructure.
+4. 🛠 Learn by building, experimenting, and troubleshooting.
+5. 💬 Document technical discoveries and share what I learn.
+
 ---
 
 ## 🌱 Currently
 
-- 🤖 Using AI tools to speed up troubleshooting, automation, and infrastructure decisions
-- 🌐 Going deeper on kubernetes end : Exploring multicloud technologies
-- 💰 Building AWS cost optimization (FinOps) projects
+- ☸️ **Kubernetes:** Exploring cluster architecture, workloads, networking, and troubleshooting.
+- 📊 **Monitoring & Observability:** Building hands-on monitoring and logging setups with Prometheus, Grafana, Loki, and Promtail.
+- 🔄 **GitOps & Helm:** Practicing declarative deployments, Helm chart management, and application delivery using ArgoCD.
+- 🐧 **Linux & Automation:** Strengthening Linux administration, Bash scripting, and infrastructure troubleshooting.
+- 🤖 **AI-Assisted Engineering:** Using AI tools to support technical research, troubleshooting, and development workflows.
 
 ---
 
