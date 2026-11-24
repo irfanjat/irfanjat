@@ -10,9 +10,10 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Irfan Ali** — a self-directed **DevOps and Cloud Engineer** and final-year Computer Science student, focused on building, automating, and monitoring cloud infrastructure through hands-on projects.
+Hi, I'm Irfan, a final-year Computer Science student learning DevOps and cloud engineering by building projects.
 
-I enjoy understanding how systems work behind the scenes, solving infrastructure challenges, and turning manual processes into reliable automated workflows. Currently open to DevOps, Cloud, and Platform Engineering opportunities.
+I like understanding how systems work and replacing manual steps with automation. I'm looking for junior DevOps, Cloud, or Platform Engineering roles.
+
 
 - ☁️ **Cloud:** AWS – EC2, VPC, S3, IAM, EKS
 - 🛠 **IaC & CI/CD:** Terraform, Ansible, GitHub Actions, Jenkins
